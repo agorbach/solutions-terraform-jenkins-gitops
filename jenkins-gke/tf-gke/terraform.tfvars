@@ -2,7 +2,7 @@
 
 project_id = "esk800"
 tfstate_gcs_backend = "esk800-tfstate"
-region = "us-west2"
+region = "us-west1"
 zones = ["us-west1-a"]
 ip_range_pods_name = "ip-range-pods"
 ip_range_services_name = "ip-range-scv"
